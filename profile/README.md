@@ -14,6 +14,6 @@ We welcome contributions from developers, researchers, and blockchain enthusiast
 
 ### 📖 Resources  
 - **Documentation:** [Coming Soon]  
-- **Community:** Join us on [Telegram](https://t.me/trustbridgecr) for updates and discussions.  
+- **Community:** Join us on [TrustBridge](https://t.me/trustbridgecr) for updates and discussions.  
 
 Join us in shaping the future of decentralized technology! 🚀  
