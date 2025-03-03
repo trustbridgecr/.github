@@ -14,6 +14,6 @@ We welcome contributions from developers, researchers, and blockchain enthusiast
 
 ### 📖 Resources  
 - **Documentation:** [Coming Soon]  
-- **Community:** Join us on Discord or follow us on Twitter for updates.  
+- **Community:** Join us on [Telegram](https://t.me/byteworkscr) for updates and discussions.  
 
-Join us in shaping the future of decentralized technology! 🚀
+Join us in shaping the future of decentralized technology! 🚀  
