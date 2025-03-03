@@ -14,8 +14,8 @@ We welcome contributions from developers, researchers, and blockchain enthusiast
 
 ### 📖 Resources  
 - **Documentation:** [Coming Soon]  
-- **TrustBridge:** Join us on [Link](https://t.me/trustbridgecr) for updates and discussions.
-- **PolarisTrade:** Join us on [Link](https://t.me/polaristradecr) for updates and discussions.  
+- **TrustBridge:** Join us on [Telegram](https://t.me/trustbridgecr) for updates and discussions.
+- **PolarisTrade:** Join us on [Telegram](https://t.me/polaristradecr) for updates and discussions.  
   
 
 Join us in shaping the future of decentralized technology! 🚀  
