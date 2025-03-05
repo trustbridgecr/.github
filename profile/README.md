@@ -1,4 +1,6 @@
-## Hi there 👋  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+# Hi there 👋  
 
 Welcome to **ByteWorks**!  
 
@@ -15,7 +17,12 @@ We welcome contributions from developers, researchers, and blockchain enthusiast
 ### 📖 Resources  
 - **Documentation:** [Coming Soon]  
 - **TrustBridge:** Join us on [Telegram](https://t.me/trustbridgecr) for updates and discussions.
-- **PolarisTrade:** Join us on [Telegram](https://t.me/polaristradecr) for updates and discussions.  
-  
+- **PolarisTrade:** Join us on [Telegram](https://t.me/polaristradecr) for updates and discussions.
 
 Join us in shaping the future of decentralized technology! 🚀  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## **Don't forget to star our repositories for more support and follow us here on GitHub as an organization!**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
