@@ -1,28 +1,29 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-# Hi there 👋  
+# TrustBridge 
 
-Welcome to **ByteWorks**!  
+Welcome to the **official link hub** for the TrustBridge Loan Marketplace.
 
-We are a team dedicated to developing high-quality decentralized applications, ensuring security, transparency, and efficiency in every project. Our mission is to innovate in the blockchain space by building robust and scalable solutions that empower users and businesses.  
+> **Fund Smart. Fund Fast.**  
+> Connect directly with borrowers and fund verified loan contracts using Stellar and Trustless Work.  
+> No custody, no delays — just transparent and secure financing.
 
-### 🚀 What We Do  
-- **Decentralized Applications (dApps):** Building secure and user-friendly blockchain-based applications.  
-- **Smart Contracts:** Creating efficient and reliable smart contract solutions.  
-- **Web3 Development:** Integrating blockchain technology into real-world use cases.  
+### 🔗 All the resources in one place:
+👉 [**trustbridge-links.vercel.app**](https://trustbridge-links.vercel.app/)
 
-### 🤝 How to Get Involved  
-We welcome contributions from developers, researchers, and blockchain enthusiasts! Check out our repositories, open issues, and contribution guidelines to see how you can collaborate.  
+### 📚 What you'll find:
+- Frontend Repos  
+- Smart Contracts  
+- API Endpoints  
+- Admin Panel Links  
+- Dev Docs & Tools  
+- Community Channels  
+- Whitepaper & Pitch Deck (coming soon)
 
-### 📖 Resources  
-- **Documentation:** [Coming Soon]  
-- **TrustBridge:** Join us on [Discord](https://discord.gg/DsUSE3aMDZ) for updates and discussions.
-- **PolarisTrade:** Join us on [Telegram](https://t.me/polaristradecr) for updates and discussions.
-
-Join us in shaping the future of decentralized technology! 🚀  
+### 🤝 Join the Community
+- [Discord Community](https://discord.gg/DsUSE3aMDZ)  
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## **Don't forget to star our repositories for more support and follow us here on GitHub as an organization!**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+## ⭐ Star this repo to keep it handy and support TrustBridge!
