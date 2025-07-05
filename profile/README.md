@@ -16,19 +16,17 @@ TrustBridge is a decentralized platform for secure and transparent P2P microloan
 
 ---
 
-### 📖 Documentation  
-Learn how TrustBridge works under the hood:  
-- **🔗 Docs:** [Here](https://trustbridge.gitbook.io/docs)
+### 📖 Learn More  
+- 📘 **Docs:** [Read our full documentation](https://trustbridge.gitbook.io/docs)  
+- 🌐 **Website:** [Access all project links and tools](https://trustbridge-links.vercel.app)  
+- 💬 **Discord:** [Join our community](https://discord.gg/DsUSE3aMDZ)  
 
 ---
 
 ### 🤝 How to Get Involved  
 We welcome contributors, builders, and DeFi enthusiasts!
 
-- **🌐 Website:** [Website](https://trustbridge-links.vercel.app)  
-- **💬 Discord:** [Join our community](https://discord.gg/DsUSE3aMDZ)  
-
-Join us in building the future of decentralized finance! 🚀  
+Let’s build the future of decentralized finance—together. 🚀  
 
 ---
 
