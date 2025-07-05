@@ -18,7 +18,7 @@ TrustBridge is a decentralized platform for secure and transparent P2P microloan
 
 ### 📖 Documentation  
 Learn how TrustBridge works under the hood:  
-**🔗 [Documentation](https://trustbridge.gitbook.io/docs)**
+- **🔗 Docs:** [Here](https://trustbridge.gitbook.io/docs)
 
 ---
 
